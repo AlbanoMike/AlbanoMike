@@ -1,7 +1,11 @@
 ## Hello i´m Michael Albano Dias 🖐️
-![AskMe](http://ForTheBadge.com/images/badges/built-with-science.svg)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/mike_mika_michel/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-dias-8a6269160/)
+<a href = "mailto:michael.albanodias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://wa.me/5511952238354?text=Hello%20I%20found%20your%20profile%20on%20GitHub%2C%20I%27d%20like%20to%20talk%20with%20you" target="_blank"><img     src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+
+
+
 
 
 ![AlbanoMike GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbanoMike&show_icons=true&theme=dracula&count_private=true)
